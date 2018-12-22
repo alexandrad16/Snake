@@ -1,6 +1,6 @@
 # Snake
  
-**Link video ** : https://youtu.be/--T5gEa5le0
+link video  : https://youtu.be/--T5gEa5le0
 
  **Components:** 
  - 8x8 LED MATRIX DISPLAY
