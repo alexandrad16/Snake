@@ -18,6 +18,6 @@ link video  : https://youtu.be/--T5gEa5le0
  The game starts when you move the Joystick and on LED Matrix will appear a _snake_. The snake needs to eat the food (the bright spot) to grow. Once the length of the snake increases, you must be carefully because his speed increases too. If the snake meets his tale, the game is over and your score will aprear on LCD, then you can try to play again.
  
 
-![alt text] (https://github.com/alexandrad16/Snake/blob/master/ROBOTICA.png)
+![](ROBOTICA.png)
 
 
