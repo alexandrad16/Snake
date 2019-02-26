@@ -3,6 +3,7 @@
 link video  : https://youtu.be/--T5gEa5le0
 
  **Components:** 
+ - Arduino UNO
  - 8x8 LED MATRIX DISPLAY
  - MAX Driver for LED MATRIX
  - 16x2 LCD
@@ -12,6 +13,7 @@ link video  : https://youtu.be/--T5gEa5le0
  - Connectig wires
  - 1 Resistance x 220 Ohm
  - 1 Resistance x 100 Ohm
+ - USB Cable
  
  
  **Description:**
